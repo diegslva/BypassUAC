@@ -45,6 +45,7 @@ Keys (watch debug ouput with dbgview or similar for more info):
 
 16 - Hybrid method working together with Microsoft GWX backdoor, work from Windows 7 up to 10rs1 11082.
 
+
 Note:
 
 Several methods require process injection, so they won't work from wow64, use x64 edition of this tool;
